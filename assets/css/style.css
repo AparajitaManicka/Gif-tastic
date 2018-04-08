@@ -1,0 +1,24 @@
+body {
+    font-family: 'Times New Roman', Times, serif;
+    background: url(disney.jpg) no-repeat center center fixed;
+}
+
+h1 {
+    text-align: center;
+    color: purple;
+    font-size: 40px;
+}
+
+.animal-btn {
+    margin: 10px;
+    float: left;
+}
+
+#animal-form {
+    float: right;
+    width: 30%;
+}
+
+#animals-view {
+    align-self: left;
+}
